@@ -1,0 +1,7 @@
+# Following packages are inbuilt for the use:
+#
+# os,sys,subprocess,time,threading,optparse
+
+# Install the following packages using pip3:
+termcolor==1.1.0
+
